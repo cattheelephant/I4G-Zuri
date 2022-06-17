@@ -45,4 +45,11 @@
     background: #01aefd;
     grid-area: b2;
   }
-  
+  header {
+    background-color: aliceblue;
+  }
+  a {
+    color: darkslategrey;
+    display: inline-block;
+    padding: 1px;
+  }

@@ -80,3 +80,11 @@
     padding-top: 30px;
     padding-bottom: 15px;
   }
+  header {
+    background-color: aliceblue;
+    text-align: center;
+  }
+  a {
+    outline: none;
+    color: darkslategrey;
+  }
